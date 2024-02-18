@@ -1,15 +1,11 @@
-<?php
-//Task(1)
-/*
-comment for 
-muliply lines
-*/
-?>
+<!-- Task(1) -->
 
+<!-- comment for 
+muliply lines -->
 <!DOCTYPE html>
-<html lang="en" <?php charset="UTF-8" ?>>
+<html lang="en">
   <head>
-    <meta charset="">
+    <meta charset="<? echo UTF-8 ?>">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo " My First PHP Page"; ?></title>
